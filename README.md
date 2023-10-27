@@ -26,7 +26,7 @@ Make sure you have the necessary development environment and tools set up to wor
 
 ## Authors
 
-- [Your Name]
+- Ali Elmansoury 
 
 ## License
 
