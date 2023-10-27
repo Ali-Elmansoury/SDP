@@ -14,7 +14,7 @@ In this assignment, we explore the Singleton design pattern. The Singleton patte
 
 The Abstract Factory pattern is a creational design pattern that provides an interface for creating families of related or dependent objects without specifying their concrete classes. In Assignment 2, you'll dive into the Abstract Factory pattern, its implementation, and its role in creating complex object structures.
 
-- Assignment 2 folder: [Assignment 2 - Abstract Factory Pattern](assignment2)
+- Assignment 2 folder: [Assignment 2 - Abstract Factory Pattern](Assignment%202/SDP-Assignment2)
 
 ## Getting Started
 
