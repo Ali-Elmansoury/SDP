@@ -8,7 +8,7 @@ This repository contains course assignments for the Software Design Patterns (SD
 
 In this assignment, we explore the Singleton design pattern. The Singleton pattern ensures that a class has only one instance and provides a global point of access to that instance. In this assignment, you'll learn how to implement the Singleton pattern and understand its use cases.
 
-- Assignment 1 folder: [Assignment 1 - Singleton Pattern](assignment1)
+- Assignment 1 folder: [Assignment 1 - Singleton Pattern](Assignment%201/SDP-Assignment1)
 
 ### Assignment 2: Abstract Factory Pattern
 
