@@ -16,6 +16,12 @@ The Abstract Factory pattern is a creational design pattern that provides an int
 
 - Assignment 2 folder: [Assignment 2 - Abstract Factory Pattern](Assignment%202/SDP-Assignment2)
 
+### Assignment 3: Factory Method Pattern
+
+In Assignment 3, you will delve into the Factory Method design pattern, a creational pattern that offers an interface for creating objects while allowing subclasses to define the type of objects to be created. The Factory Method pattern encourages loose coupling between creators and their product objects, enhancing flexibility and maintainability.
+
+- Assignment 3 folder: [Assignment 3 - Factory Method Pattern](Assignment%203/SDP-Assignment3)
+
 ## Getting Started
 
 To get started with any assignment, simply navigate to the respective assignment folder and follow the provided instructions. You'll find details on the assignment requirements, code templates, and any additional resources.
