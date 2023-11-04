@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SDP-Assignment3/1.0.0": {
+        "runtime": {
+          "SDP-Assignment3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SDP-Assignment3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
