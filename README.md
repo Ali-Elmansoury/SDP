@@ -22,6 +22,12 @@ In Assignment 3, you will delve into the Factory Method design pattern, a creati
 
 - Assignment 3 folder: [Assignment 3 - Factory Method Pattern](Assignment%203/SDP-Assignment3)
 
+### Assignment 4: State Pattern
+
+In Assignment 4, you will explore the State design pattern. The State pattern allows an object to alter its behavior when its internal state changes. This pattern is particularly useful in scenarios where an object undergoes different operations based on its current state.
+
+- Assignment 4 folder: [Assignment 4 - State Pattern](Assignment%204/SDP-Assignment4)
+
 ## Getting Started
 
 To get started with any assignment, simply navigate to the respective assignment folder and follow the provided instructions. You'll find details on the assignment requirements, code templates, and any additional resources.
